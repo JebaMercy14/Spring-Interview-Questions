@@ -1,0 +1,66 @@
+
+
+
+1.) Procedural orieneted
+
+2.) Oops
+
+3.) Design Patters
+
+4.) Frameworks (Spring ,Hibernate, Spring Boot)
+
+
+Banking Project
+================
+
+Class BankMain{
+
+    Intrest int1=new Intrest(); (Injecting Object)
+
+    Deposit dep=new Deposit(); (Injecting Object)-Dependency Injection
+
+}
+
+class Interest{}
+
+class Withdraw{}
+
+class Deposit{}
+
+class Insurance{}
+
+class Loan{}
+
+class Locker{}
+
+
+Java enterprise edition (J2EE)
+
+Application server (Oracle Weblogic)
+EJB
+Session beans
+Entity Beans
+
+
+John Rodshon Replaced technology with Spring
+
+
+Spring Framework taking control object management(you need only configure xml or annodation)
+
+this process is called Inversion of Control(IOC)
+
+1.) What is Dependency Injection
+2.) What is Inversion of Control
+3.) What is Spring Module
+
+
+3 Steps to Inject DI
+
+
+1.)Create the POJO
+
+2.) Create the Configuration
+
+3.) Create a test
+
+

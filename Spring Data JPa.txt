@@ -1,0 +1,20 @@
+Hi Good Morning to all
+ refer the following Spring Data JPA 
+
+(AshokIT)
+1.) https://www.youtube.com/watch?v=HlJ_WVazbJc&list=PLpLBSl8eY8jTRHChKKG_eeTWuNPblJnrG
+
+Interview Questions
+2.) https://www.youtube.com/watch?v=pAYKEIzlHmI&t=1004s
+
+
+Ashok IT Rest API
+
+https://www.youtube.com/watch?v=_rOUDhCE-x4
+
+
+Please Refer the Udemy course -Spring Framework In Easy Steps
+
+Spring Boot and Spring Data JPA Section
+
+

@@ -1,0 +1,74 @@
+https://www.youtube.com/watch?v=xnur2ujza6k&t=2893s
+
+============================================================
+Note: Please use HeadPhone voice is Low
+
+1.) MySQL
+
+2.) Eclipse with Marketplace STS installation
+
+3.) STS(Spring Tool Suite)
+
+
+1.) Spring Boot MVC
+
+2.) Spring Data Jpa
+
+3.) Thymleaf (like HTML5 and Bootstrap)
+
+4.) MySQL Database
+
+
+
+1.) After Downloading the files
+
+2.) Create one Book database --book2 or book
+
+3.) Create one worspace
+
+4.) Copy downloaded bookstore source file to your wokspace folder.
+
+
+5.) Launch the Eclipe with your workspace folder (workspace3)
+
+
+6.) In Eclipse import(maven project) the BookStore project(already copied in workspace)
+
+
+7.) In POM file change your Java version 11 to 17
+
+
+8.) Go to Application.properties-Change the database name , My sql password
+
+9.) Run Spring Boot Project
+
+    http://localhost:1001/
+
+
+
+
+This video is Recorded uploaded in Youtube.(URL)
+
+https://youtu.be/BFwXTI-l3pw
+
+https://youtu.be/BFwXTI-l3pw
+
+
+Sourcode also I will share below link
+
+https://drive.google.com/file/d/1YBERvb-ReneIG-3S6hG-91n49th7-mb8/view?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
